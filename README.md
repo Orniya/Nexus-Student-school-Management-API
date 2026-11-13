@@ -18,19 +18,7 @@ A REST API built using Node.js and Express.
 - Express.js
 - Postman
 
-## Installation
 
-Clone the repository and run:
-
-npm install
-
-## Start the server
-
-npm run dev
-
-Server URL:
-
-http://localhost:3000
 
 ## API Endpoints
 
